@@ -3,7 +3,7 @@
 Projeto publicado -<a href="https://app.powerbi.com/view?r=eyJrIjoiZDFmZGY0OTEtMzlmZS00YzUzLThiOTgtOTM3OWRmMjc1Y2IzIiwidCI6IjdlOTNlMjg2LWIyOWEtNDQ1NC1hNDFhLWU4NDE5ZWM5ZGViNSJ9"> Dashboard Performance Pedidos</a>
 
 
-Durante a construção do dashboard, foi realizada a etapa essencial de entender o negócio e os KPI. A obtenção dos dados ocorreu em diferentes fontes, incluindo conexões com MySQL, CSV e JSON. O tratamento dos dados foi realizado no Power Query, o que envolveu o gerenciamento de parâmetros, estabelecimento de relacionamentos e pequenos ajustes em linguagem M. O design do painel foi elaborado no Figma, resultando em um layout atraente. Com base nesse design, o dashboard foi montado e criado um layout específico para dispositivos móveis. Por fim, o conteúdo foi publicado, tornando-o acessível para a equipe e demais interessados.<br>
+Para a construção do dashboard, foi realizada a etapa essencial de entender o negócio e os KPI. A obtenção dos dados ocorreu em diferentes fontes, incluindo conexões com MySQL, CSV e JSON. O tratamento dos dados foi realizado no Power Query, o que envolveu o gerenciamento de parâmetros, estabelecimento de relacionamentos e pequenos ajustes em linguagem M. O design do painel foi elaborado no Figma, resultando em um layout atraente. Com base nesse design, o dashboard foi montado e criado um layout específico para dispositivos móveis. Por fim, o conteúdo foi publicado, tornando-o acessível para a equipe e demais interessados.<br>
 
 O dashboard inclui as seguintes informações:
 
